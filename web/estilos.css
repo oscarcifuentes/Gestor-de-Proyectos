@@ -1,0 +1,118 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: red;
+  background-color: #C9D4D8; 
+  background: url(http://www.solofondos.com/wp-content/uploads/2015/11/Imagen-de-fondo-html.jpg);
+ 
+
+        }
+h1 {
+        font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif; 
+        margin-left: auto;
+	margin-right: auto;
+	width: 10em;
+        color: #94949C;
+    }
+
+
+#nombre{
+        display: block;
+	margin-left: auto;
+	margin-right: auto;
+    }
+#contraseña{
+        display: block;
+	margin-left: auto;
+	margin-right: auto;
+    }
+#Nombre{
+        display: block;
+	margin-left: auto;
+	margin-right: auto;
+    }    
+
+ h2{
+       margin-left: auto;
+	margin-right: auto;
+	width: 6em;
+        color: #94949C;
+    }
+ h3{
+       margin-left: auto;
+	margin-right: auto;
+	width: 6em;
+        color: #94949C;
+    }
+ h4{
+       margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+        color: #94949C;
+    }
+    a{
+       
+        color: #FAFAFA;
+    }   
+#iniciar{
+        text-align: center;
+	width: 9em;
+        height: 6em;
+        color: #FAFAFA;
+        border-radius:3px;
+        border: 1px solid #cccccc;
+        
+      
+
+#d3 {
+    padding-top: 150px; 
+    }
+        width:40px;
+        height:20px;
+        display: block;
+        border-style: solid;
+	margin-left: auto;
+	margin-right: auto;
+        background-color:#94949C;
+        
+      
+    }
+    
+
+.menu {
+	list-style: none;			/* Elimina decoración de listas */
+	float: left;
+	font-size: 1.1em;
+}
+.menu li a:link, .menu li a:visited {
+	text-decoration: none;			/* Elimina decoración de links */
+	display: block;				/* Convierte toda la línea en link */
+	color:#94949C;				/* Color de letra del ítem */
+	padding: 2px 10px;			/* Relleno de items de menu */
+}
+.menu li a.activo {
+	color: #FAFAFA;				/* Color de letra del ítem activo */
+	background: #93A283;			/* Color de fondo del ítem activo */
+}
+.menu li a:hover {
+	color:#FAFAFA;				/* Color de letra al pasar el cursor */
+	background: #75846f;        		/* Color de fondo al pasar el cursor */
+	box-shadow: 0px 3px 3px #111111;
+}
+.mV {						/* Contenedor del menú vertical */
+	margin: 0 0 0 10px;
+}
+.mV li {							
+	margin: 4px 0;				/* Separa ítems verticalmente */
+	background: #dee2dd;			/* Fondo ítems */
+}
+
+.mH {               			    	/* Contenedor del menú horizontal */
+	float: right;				/* Posición del menú horizontal */
+	margin: 8px 10px;
+}
+.mH li {							
+	float: left;				/* Crea menú horizontal */
+	margin: 0 2px;				/* Separa ítems horizontalmente*/
+	background: #94949C;			/* Fondo ítems */
+}
+
