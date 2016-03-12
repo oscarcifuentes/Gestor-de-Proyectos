@@ -15,14 +15,14 @@
  <body>
         <div id="d3">
             <center>
-                <h1>RCREAR UN PROYECTO NUEVO</h1>
-                    <form action="" method="post">
+                <h1>CREAR UN PROYECTO NUEVO</h1>
+                    <form action="crear" method="post">
                         <h2>Nombre De Proyecto</h2>
                         <input type="text" name="NombreProyecto"/><br>
                         <h2>Fecha Inicio</h2>
                         <input type="date" name="FechaI"/><br>
                         <h2>Fecha Culminacion</h2>
-                        <input type="date" name="Usuario" /><br>
+                        <input type="date" name="Fecha2" /><br>
                         <h2>Primer Responsable</h2>
                         <input type="tex" name="R1"/><br>
                         <h2>Segundo Responsable</h2>

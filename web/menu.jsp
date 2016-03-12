@@ -20,9 +20,9 @@
   <div class="mV">		<!-- caja: navegación vertical -->
     <ul class="menu">
       <li><a href="CrearProyecto.jsp">Crear Proyecto Nuevo</a></li>
-      <li><a class="activo" href="#" href="#">Modificar Proyecto</a></li>
-      <li><a href="#">Ver Proyectos</a></li>
-      <li><a href="#">Eliminar Proyecto</a></li>
+      <li><a class="activo" href="#">Modificar Proyecto</a></li>
+      <li><a href="MostrarProyectos.jsp">Ver Proyectos</a></li>
+      <li><a href="Eliminar.jsp">Eliminar Proyecto</a></li>
     </ul>
   </div>
 </div>
