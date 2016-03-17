@@ -8,14 +8,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Iniciar Sesion</title>
+        <title>Iniciar Sesión</title>
          <link rel="stylesheet" href="estilos.css">
         
     </head>
     <body>
    <div id="d3">
     <center>
-        <h1>INICIAR SESION</h1>
+        <h1>INICIAR SESIÓN</h1>
         <form action="sesion" method="post">
             <h2>Usuario</h2>
             <input type="text" name="name"/><br>
